@@ -1,0 +1,61 @@
+Id,Description,Date,Amount,Category,Type
+1,Gas Bill,2025-10-28,488,Bills,Debit
+2,BookMyShow Tickets,2025-10-09,4263,Entertainment,Debit
+3,Myntra Shopping,2025-09-14,617,Shopping,Debit
+4,Hotstar,2025-09-06,283,Entertainment,Debit
+5,Netflix Subscription,2025-10-01,4952,Entertainment,Debit
+6,Mutual Fund Investment,2025-10-01,78040,Investment,Credit
+7,Domino's,2025-10-07,3924,Food,Debit
+8,Doctor Consultation,2025-09-09,2123,Healthcare,Debit
+9,Freelance Payment,2025-09-01,29499,Salary,Credit
+10,Project Bonus,2025-09-30,64493,Salary,Credit
+11,Freelance Payment,2025-09-27,72426,Salary,Credit
+12,Local Store,2025-10-07,1694,Shopping,Debit
+13,Petrol Pump,2025-10-15,1294,Transport,Debit
+14,Mobile Recharge,2025-09-04,2043,Bills,Debit
+15,Pizza Hut,2025-10-28,4843,Food,Debit
+16,Zomato Order,2025-09-16,1954,Food,Debit
+17,Stock Purchase,2025-09-27,16248,Investment,Credit
+18,Gift Expense,2025-09-21,4343,Others,Debit
+19,Local Store,2025-10-29,2373,Shopping,Debit
+20,Amazon Purchase,2025-10-03,626,Shopping,Debit
+21,Uber Ride,2025-09-08,3873,Transport,Debit
+22,Freelance Payment,2025-10-20,56311,Salary,Credit
+23,Medical Store,2025-10-25,2570,Healthcare,Debit
+24,Ola Cab,2025-09-21,540,Transport,Debit
+25,Doctor Consultation,2025-10-27,3265,Healthcare,Debit
+26,Netflix Subscription,2025-10-14,4694,Entertainment,Debit
+27,Hotstar,2025-10-29,3360,Entertainment,Debit
+28,Uber Ride,2025-10-10,1923,Transport,Debit
+29,Mutual Fund Investment,2025-10-27,17888,Investment,Credit
+30,Internet Bill,2025-10-16,2126,Bills,Debit
+31,Uber Ride,2025-09-07,1464,Transport,Debit
+32,Local Store,2025-10-17,1624,Shopping,Debit
+33,Mutual Fund Investment,2025-10-12,49876,Investment,Credit
+34,Pathology Lab,2025-10-28,1072,Healthcare,Debit
+35,Miscellaneous,2025-10-28,3547,Others,Debit
+36,Mobile Recharge,2025-10-11,4558,Bills,Debit
+37,Project Bonus,2025-09-14,35149,Salary,Credit
+38,Zomato Order,2025-10-04,4169,Food,Debit
+39,Uber Ride,2025-09-08,3370,Transport,Debit
+40,Internet Bill,2025-09-04,465,Bills,Debit
+41,Freelance Payment,2025-09-05,25258,Salary,Credit
+42,Freelance Payment,2025-10-11,74196,Salary,Credit
+43,Gas Bill,2025-10-17,2721,Bills,Debit
+44,Electricity Bill,2025-09-22,1941,Bills,Debit
+45,Local Store,2025-10-14,3563,Shopping,Debit
+46,Netflix Subscription,2025-09-06,2497,Entertainment,Debit
+47,Netflix Subscription,2025-09-01,4689,Entertainment,Debit
+48,Gift Expense,2025-10-14,776,Others,Debit
+49,Ola Cab,2025-10-26,2837,Transport,Debit
+50,Netflix Subscription,2025-10-26,4683,Entertainment,Debit
+51,Miscellaneous,2025-10-02,3981,Others,Debit
+52,Freelance Payment,2025-10-10,62950,Salary,Credit
+53,Doctor Consultation,2025-10-07,4289,Healthcare,Debit
+54,Uber Ride,2025-09-17,892,Transport,Debit
+55,BookMyShow Tickets,2025-10-21,3032,Entertainment,Debit
+56,Mutual Fund Investment,2025-10-24,55255,Investment,Credit
+57,Cafe Coffee Day,2025-09-17,3688,Food,Debit
+58,Swiggy Meal,2025-10-27,4760,Food,Debit
+59,Hotstar,2025-09-06,4411,Entertainment,Debit
+60,Internet Bill,2025-10-24,4796,Bills,Debit
