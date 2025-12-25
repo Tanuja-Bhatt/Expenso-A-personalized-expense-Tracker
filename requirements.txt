@@ -1,0 +1,6 @@
+streamlit
+pandas
+cohere
+
+python-dotenv # For environment variables
+plotly
